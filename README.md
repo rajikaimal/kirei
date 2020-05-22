@@ -1,6 +1,6 @@
 # kirei
 
-Prettier as a Service
+📦 Prettier as a Service
 
 ## Request format
 
