@@ -4,5 +4,7 @@ module.exports = (req, res) => {
   const { body } = req;
   const prettified = kirei.runPrettier(body.src, body.opts);
 
-  res.end(prettified);
+  res.json({
+    src: prettified,
+  });
 };
