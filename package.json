@@ -1,6 +1,6 @@
 {
   "name": "kirei",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Prettier as a Service",
   "main": "index.js",
   "scripts": {
